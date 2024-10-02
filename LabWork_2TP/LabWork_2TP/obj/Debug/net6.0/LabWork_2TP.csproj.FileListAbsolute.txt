@@ -1,0 +1,15 @@
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\bin\Debug\net6.0\LabWork_2TP.exe
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\bin\Debug\net6.0\LabWork_2TP.deps.json
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\bin\Debug\net6.0\LabWork_2TP.runtimeconfig.json
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\bin\Debug\net6.0\LabWork_2TP.dll
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\bin\Debug\net6.0\LabWork_2TP.pdb
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\obj\Debug\net6.0\LabWork_2TP.csproj.AssemblyReference.cache
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\obj\Debug\net6.0\LabWork_2TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\obj\Debug\net6.0\LabWork_2TP.AssemblyInfoInputs.cache
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\obj\Debug\net6.0\LabWork_2TP.AssemblyInfo.cs
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\obj\Debug\net6.0\LabWork_2TP.csproj.CoreCompileInputs.cache
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\obj\Debug\net6.0\LabWork_2TP.dll
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\obj\Debug\net6.0\refint\LabWork_2TP.dll
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\obj\Debug\net6.0\LabWork_2TP.pdb
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\obj\Debug\net6.0\LabWork_2TP.genruntimeconfig.cache
+C:\Users\BooM\source\repos\LabWork_2TP\LabWork_2TP\obj\Debug\net6.0\ref\LabWork_2TP.dll
